@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "ThreatLens_updated",
+			"path": "../ThreatLens_updated"
+		}
+	],
+	"settings": {}
+}
