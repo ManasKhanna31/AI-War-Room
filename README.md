@@ -16,8 +16,8 @@ tags: [openenv, reinforcement-learning, cybersecurity, drone-defense, simulation
 
 📖 **API Docs:** [https://harshitkhanna16-ai-war-room.hf.space/docs](https://harshitkhanna16-ai-war-room.hf.space/docs)
 
----
-Before starting the live demo, reset the simulator/environment to its initial state.
+<sub>⚠️ Before starting the live demo, reset the simulator/environment to its initial state.</sub>
+
 ---
 
 ## 🌍 Real-World Utility
